@@ -1,6 +1,7 @@
 #pragma once
 #include <vector>
 #include "Card.h"
+#include <algorithm>
 
 using namespace std;
 
@@ -44,6 +45,21 @@ bool CheckPlayerDefCard(vector<Card>& playerCards, int defCardNumber, Card attac
 void PlayerDefence(vector<Card> playerCards, Card playerDefCard,
 	int number, vector<Card> cardsOnTable);
 
-vector<Card>::iterator CompChooseAddCard(vector<Card>& computerCards,
+vector<Card>::iterator CompChooseAddCard(vector<Card>& computerCards, 
 	vector<Card>& cardsOnTable);
+
+void PlayerAttackLoop(bool playerTurn, vector<Card>& playerCards, 
+	vector<Card>& computerCards,vector<Card>& cardsOnTable, vector<Card>& deckOfCards);
+
+void CompAttackLoop(bool playerTurn, vector<Card>& playerCards, vector<Card>& computerCards,
+	vector<Card>& cardsOnTable, vector<Card>& deckOfCards);
+
+void WIN(bool gameOver, vector<Card>& playerCards, vector<Card>& computerCards,
+	vector<Card>& deckOfCards);
+
+void LOSE(bool gameOver, vector<Card>& playerCards, vector<Card>& computerCards,
+	vector<Card>& deckOfCards);
+
+
+
 

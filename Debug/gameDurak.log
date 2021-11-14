@@ -1,2 +1,28 @@
-﻿  Card.cpp
+﻿  Functions.cpp
+E:\gameDurak\gameDurak\Functions.cpp(8,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(14,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(55,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(72,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(75,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(92,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(95,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(142,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(144,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(163,25): warning C4018: <: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(212,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(214,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(226,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(229,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(276,28): warning C4018: >: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(335,53): warning C4018: <=: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(339,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(377,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(424,53): warning C4018: <=: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(428,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(555,48): warning C4018: <=: несоответствие типов со знаком и без знака
+E:\gameDurak\gameDurak\Functions.cpp(619,49): warning C4018: <=: несоответствие типов со знаком и без знака
+  Source.cpp
+E:\gameDurak\gameDurak\Source.cpp(79,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\gameDurak\gameDurak\Source.cpp(89,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
   gameDurak.vcxproj -> E:\gameDurak\gameDurak\Debug\gameDurak.exe
